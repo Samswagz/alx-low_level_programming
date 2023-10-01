@@ -24,6 +24,7 @@ int is_prime_number(int n)
  *
  * Return: Return solution
  */
+
 int calculo_primo(int num_, int inf)
 {
 	if (num_ / 2 < inf)
